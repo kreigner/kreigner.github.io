@@ -1,12 +1,12 @@
 
 
 # --SITE SETTINGS--
-title: "Flâneur: a Jekyll theme for maps and text"
-email: dchildress@library.ucla.edu
+title: "Some kind of a tour"
+email: kevin.reigner@gmail.com
 description:
-baseurl: "/flaneur" # the subpath of your site, e.g. /blog/
+baseurl: "/kreigner.github.io" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
-github_repo: https://github.com/kirschbombe/flaneur
+github_repo: https://github.com/kreigner/kreigner.github.io
 
 # --COPYRIGHT-- (Date generated from last build)
 copyright_name: Dawn Childress
